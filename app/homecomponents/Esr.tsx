@@ -25,6 +25,7 @@ const Esr = () => {
           </a>
         </div>
         <div>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
             src="/windmil.jpg"
             alt="windmil"

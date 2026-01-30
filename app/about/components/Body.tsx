@@ -8,7 +8,7 @@ const Body = () => {
       </h2>
       <p>
         As a key part of Arcane Holdings, our purpose is to build a better future by reducing the health impact of our business. We are committed to offering a greater choice of enjoyable and less risky products for our consumers.
-        <br /> <br /> Our growth model will evolve through the development of a diverse portfolio in tobacco, nicotine, and beyond, meeting our consumers' evolving needs for enjoyment and satisfaction.
+        <br /> <br /> Our growth model will evolve through the development of a diverse portfolio in tobacco, nicotine, and beyond, meeting our consumers&apos; evolving needs for enjoyment and satisfaction.
         <br /> <br />
         While traditional products remain at the core of our business, we aim to generate an increasingly greater proportion of revenue from innovative, next-generation products to reduce the health impact of our business. <br /> <br /> This delivers a better tomorrow for our consumers, who will have a range of enjoyable and potentially less risky choices; for society, by reducing our overall health and environmental impacts; for our employees, by creating a dynamic and purposeful place to work; and for our shareholders, by delivering sustainable, superior returns.
       </p>

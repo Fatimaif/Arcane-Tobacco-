@@ -21,7 +21,7 @@ const Cta = () => {
         <div>
           <h4 className="font-semibold text-lg mb-3">Careers</h4>
           <p className="text-sm text-gray-600 mb-4">
-            Your difference could make all the difference. Visit the Arcane Holdings careers website to find out more about what it's like to work with us.
+            Your difference could make all the difference. Visit the Arcane Holdings careers website to find out more about what it&apos;s like to work with us.
           </p>
           <a
             href="#"

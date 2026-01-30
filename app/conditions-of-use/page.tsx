@@ -22,7 +22,7 @@ const ConditionsOfUsePage = () => {
 
         <h2 className="text-2xl font-semibold text-blue-950 mt-8 mb-4">Disclaimer of Warranties and Limitation of Liability</h2>
         <p className="mb-4">
-          This website is provided on an "as is" and "as available" basis. Arcane Tobacco makes no representations or warranties of any kind, express or implied, as to the operation of this site or the information, content, materials, or products included on this site. You expressly agree that your use of this site is at your sole risk.
+          This website is provided on an &quot;as is&quot; and &quot;as available&quot; basis. Arcane Tobacco makes no representations or warranties of any kind, express or implied, as to the operation of this site or the information, content, materials, or products included on this site. You expressly agree that your use of this site is at your sole risk.
         </p>
         <p className="mb-4">
           To the full extent permissible by applicable law, Arcane Tobacco disclaims all warranties, express or implied. Arcane Tobacco will not be liable for any damages of any kind arising from the use of this site, including, but not limited to direct, indirect, incidental, punitive, and consequential damages.
